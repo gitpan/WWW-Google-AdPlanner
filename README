@@ -1,0 +1,10 @@
+WWW::Google::AdPlanner
+======================
+
+WWW::Google::AdPlanner retrieves web site statistics from Google Ad Planner
+by loading a JSON file from:
+
+https://www.google.com/adplanner/planning/site_details_data
+
+At the time of this writing, this information can be retrieved by everyone
+without logging in to Google.
